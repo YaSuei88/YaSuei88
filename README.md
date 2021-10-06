@@ -2,8 +2,8 @@
 
 
 preview
-<h1 align="center">Hi 👋, Welcome to my Gitub page !</h1>
-<h3 align="center">My name is Yasuei and I am a data scientist. </h3>
+<h1 align="center">Hi 👋, my name is Yasuei and I am a data scientist. </h1>
+<h3 align="center"> Welcome to my Gitub page! </h3>
 
 I loves play around with data to find patterns and explaination of it. Besides being a data scientist, I am also...
 **A computational linguist** who has experiences in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in community-building and creating highly shareable content in both traditional and digital media. **An awarded educator** who can convert complex information into digestible content in a timely fashion. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
