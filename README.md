@@ -2,11 +2,13 @@
 
 
 preview
-<h1 align="center">Hi 👋, I'm YaSuei Cheng</h1>
-<h3 align="center">A data scientist who loves play around with data to find patterns and explaination of it.</h3>
+<h1 align="center">Hi 👋, Welcome to my Gitub page !</h1>
+<h3 align="center">I am a data scientist who loves play around with data to find patterns and explaination of it.</h3>
 
 I am also...
 **A computational linguist** who has experiences in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in community-building and creating highly shareable content in both traditional and digital media. **An awarded educator** who can convert complex information into digestible content in a timely fashion. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
+
+🔦 The three public repositories show my projects from the Udemy Python and data science courses.
 
 - 🌱 I’m currently still learning **Machine learning, deep learning and NLP**
 
