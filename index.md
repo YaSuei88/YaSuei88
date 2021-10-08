@@ -2,36 +2,34 @@
 
 You can use the [editor on GitHub](https://github.com/YaSuei88/YaSuei88/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# YaSuei_profile
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+preview
+<h1 align="center">Hi 👋, my name is Yasuei and I am a data scientist. </h1>
+<h3 align="center"> Welcome to my Gitub page! </h3>
 
-```markdown
-Syntax highlighted code block
+I loves play around with data to find patterns and explaination of it. Besides being a data scientist, I am also...
+**A computational linguist** who has experiences in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in community-building and creating highly shareable content in both traditional and digital media. **An awarded educator** who can convert complex information into digestible content in a timely fashion. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
 
-# Header 1
-## Header 2
-### Header 3
+🔦 The three public repositories show my projects from the Udemy Python and data science courses.
 
-- Bulleted
-- List
+- 🌱 I’m currently still learning **Machine learning, deep learning and NLP**
 
-1. Numbered
-2. List
+- 📫 How to reach me **yasuei.cheng@gmail.com**
 
-**Bold** and _Italic_ and `Code` text
+- ⚡ Fun fact **I also catsitting...just for fun :D**
 
-[Link](url) and ![Image](src)
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yasuei-cheng-26323735/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasuei cheng" height="30" width="40" /></a>
+</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Jekyll Themes
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasuei88&show_icons=true&locale=en&layout=compact" alt="yasuei88" /></p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YaSuei88/YaSuei88/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasuei88&show_icons=true&locale=en" alt="yasuei88" /></p>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
