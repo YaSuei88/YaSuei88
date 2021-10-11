@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋,  Welcome to my Github page!</h1>
 
-I loves play around with data to find hidden patterns and information :secret: in it. Besides being a data scientist, I am also...
+I love playing around with data to find hidden patterns and information :secret: in it. Besides being a data scientist, I am also...
 **A computational linguist** who has experiences in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in both verbal and written forms. **An awarded educator** who worked with individuals that were above 2 standard deviations of IQ tests. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
 
 🔦 The **five public repositories** show my projects from the Udemy Python and data science courses.
@@ -11,7 +11,7 @@ I loves play around with data to find hidden patterns and information :secret: i
 * Password checker :cop: : **A python project.** Using website: pwned's API to check if your passwords have been leaked.
 * Heart Disease Classification :heartpulse: : **A machine learning project.** The goal of this project is to predict weather or not someone has heart disease based on their medical attributes.
 * Bulldozers Price :tractor: : **A time-series machine learning project.** The goal is to predict the sale price of bulldozers, and find out the important features for the price.
-* Dog Vision :hearts: : **A deep learning image classification project.** The goal of this project is to to use deep learning for multil-class image classification using TrensorFlow Hub.
+* Dog Vision :dog: : **A deep learning image classification project.** The goal of this project is to to use deep learning for multil-class image classification using TrensorFlow Hub.
 * Restaurant review :pizza: : **A NLP sematic analysis project.** The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
 
 🌱 I’m currently still learning **Machine learning, deep learning and NLP**
