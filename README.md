@@ -13,7 +13,7 @@ I loves play around with data to find patterns and explaination of it. Besides b
 * Password checker: **A python project.** Using website: pwned's API to check if your passwords have been leaked.
 * Heart Disease Classification: **A machine learning project.** The goal of this project is to predict weather or not someone has heart disease based on their medical attributes.
 * Bulldozers Price: **A time-series machine learning project.** The goal is to predict the sale price of bulldozers, and find out the important features for the price.
-* Dog Vision: **A deep learning image classification project.**The goal of this project is to to use deep learning for multil-class image classification using TrensorFlow Hub.
+* Dog Vision: **A deep learning image classification project.** The goal of this project is to to use deep learning for multil-class image classification using TrensorFlow Hub.
 * Restaurant reivew: **A NLP semetic analysis project.**The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
 
 🌱 I’m currently still learning **Machine learning, deep learning and NLP**
