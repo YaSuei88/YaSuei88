@@ -1,24 +1,26 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/YaSuei88/YaSuei88/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-# YaSuei_profile
+![YaSuei Cheng (1)](https://user-images.githubusercontent.com/70978272/136773808-3baf9da0-72d2-4246-9796-0dcb4d620a93.png)
 
 
 preview
 <h1 align="center">Hi 👋, my name is Yasuei and I am a data scientist. </h1>
 <h3 align="center"> Welcome to my Gitub page! </h3>
 
-I loves play around with data to find patterns and explaination of it. Besides being a data scientist, I am also...
-**A computational linguist** who has experiences in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in community-building and creating highly shareable content in both traditional and digital media. **An awarded educator** who can convert complex information into digestible content in a timely fashion. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
+I loves play around with data to find hidden patterns and information :secret: in it. Besides being a data scientist, I am also...
+**A computational linguist** who has experiences in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in both verbal and written forms. **An awarded educator** who worked with individuals that were above 2 standard deviation in terms of IQ. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
 
-🔦 The three public repositories show my projects from the Udemy Python and data science courses.
+🔦 The **five public repositories** show my projects from the Udemy Python and data science courses.
 
-- 🌱 I’m currently still learning **Machine learning, deep learning and NLP**
+* Password checker :cop: : **A python project.** Using website: pwned's API to check if your passwords have been leaked.
+* Heart Disease Classification :heartpulse: : **A machine learning project.** The goal of this project is to predict weather or not someone has heart disease based on their medical attributes.
+* Bulldozers Price :tractor: : **A time-series machine learning project.** The goal is to predict the sale price of bulldozers, and find out the important features for the price.
+* Dog Vision :hearts: : **A deep learning image classification project.** The goal of this project is to to use deep learning for multil-class image classification using TrensorFlow Hub.
+* Restaurant reivew :pizza: : **A NLP semetic analysis project.** The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
 
-- 📫 How to reach me **yasuei.cheng@gmail.com**
+🌱 I’m currently still learning **Machine learning, deep learning and NLP**
 
-- ⚡ Fun fact **I also catsitting...just for fun :D**
+ 📫 How to reach me **yasuei.cheng@gmail.com**
+
+ ⚡ Fun fact **I am currently into Bollywood dance work out!** :dancer: Anyone who also loves Bollywood dance? :raising_hand:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
