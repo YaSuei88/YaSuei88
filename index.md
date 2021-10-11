@@ -1,7 +1,7 @@
 ![YaSuei Cheng-banner](https://user-images.githubusercontent.com/70978272/136793787-2ac095c6-2a29-49dd-bdcd-1dfc772e8795.jpg)
 
 
-<h1 align="center">Hi 👋,  Welcome to my Gitub page!</h1>
+<h1 align="center">Hi 👋,  Welcome to my Github page!</h1>
 
 I loves play around with data to find hidden patterns and information :secret: in it. Besides being a data scientist, I am also...
 **A computational linguist** who has experiences in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in both verbal and written forms. **An awarded educator** who worked with individuals that were above 2 standard deviation in terms of IQ. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
