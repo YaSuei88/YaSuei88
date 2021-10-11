@@ -10,17 +10,17 @@ I loves play around with data to find patterns and explaination of it. Besides b
 
 🔦 The five public repositories show my projects from the Udemy Python and data science courses.
 
-* Password checker: A python project. Using website: pwned's API to check if your passwords have been leaked.
-* Heart Disease Classification: A machine learning project. The goal of this project is to predict weather or not someone has heart disease based on their medical attributes.
-* Bulldozers Price: A time-series machine learning project. The goal is to predict the sale price of bulldozers, and find out the important features for the price.
-* Dog Vision: A deep learning image classification project.The goal of this project is to to use deep learning for multil-class image classification using TrensorFlow Hub.
-* Restaurant reivew: A NLP semetic analysis project.The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
+* Password checker: **A python project.** Using website: pwned's API to check if your passwords have been leaked.
+* Heart Disease Classification: **A machine learning project.** The goal of this project is to predict weather or not someone has heart disease based on their medical attributes.
+* Bulldozers Price: **A time-series machine learning project.** The goal is to predict the sale price of bulldozers, and find out the important features for the price.
+* Dog Vision: **A deep learning image classification project.**The goal of this project is to to use deep learning for multil-class image classification using TrensorFlow Hub.
+* Restaurant reivew: **A NLP semetic analysis project.**The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
 
 🌱 I’m currently still learning **Machine learning, deep learning and NLP**
 
  📫 How to reach me **yasuei.cheng@gmail.com**
 
- ⚡ Fun fact **I also catsitting...just for fun :D**
+ ⚡ Fun fact **I also do catsitting...just for fun :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
