@@ -8,7 +8,7 @@ preview
 I loves play around with data to find patterns and explaination of it. Besides being a data scientist, I am also...
 **A computational linguist** who has experiences in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in both verbal and written forms. **An awarded educator** who worked with individuals that were above 2 standard deviation in terms of IQ. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
 
-🔦 The five public repositories show my projects from the Udemy Python and data science courses.
+🔦 The **five public repositories** show my projects from the Udemy Python and data science courses.
 
 * Password checker: **A python project.** Using website: pwned's API to check if your passwords have been leaked.
 * Heart Disease Classification: **A machine learning project.** The goal of this project is to predict weather or not someone has heart disease based on their medical attributes.
