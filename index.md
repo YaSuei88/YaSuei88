@@ -1,5 +1,4 @@
 
-preview
 <h1 align="center">Hi 👋, my name is Yasuei and I am a data scientist. </h1>
 <h3 align="center"> Welcome to my Gitub page! </h3>
 
