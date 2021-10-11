@@ -20,7 +20,7 @@ I loves play around with data to find patterns and explaination of it. Besides b
 
  📫 How to reach me **yasuei.cheng@gmail.com**
 
- ⚡ Fun fact **I am currently into Bollywood dance work out!** Anyone who also loves Bollywood dance?
+ ⚡ Fun fact **I am currently into Bollywood dance work out!** :dancer: Anyone who also loves Bollywood dance? :raising_hand:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
