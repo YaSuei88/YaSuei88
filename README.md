@@ -14,7 +14,7 @@ I loves play around with data to find hidden patterns and information :secret: i
 * Heart Disease Classification :heartpulse: : **A machine learning project.** The goal of this project is to predict weather or not someone has heart disease based on their medical attributes.
 * Bulldozers Price :tractor: : **A time-series machine learning project.** The goal is to predict the sale price of bulldozers, and find out the important features for the price.
 * Dog Vision :hearts: : **A deep learning image classification project.** The goal of this project is to to use deep learning for multil-class image classification using TrensorFlow Hub.
-* Restaurant reivew :pizza: : **A NLP semetic analysis project.** The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
+* Restaurant review :pizza: : **A NLP sematic analysis project.** The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
 
 🌱 I’m currently still learning **Machine learning, deep learning and NLP**
 
