@@ -16,7 +16,6 @@ I love playing around with data to the find hidden patterns and information :sec
 * Dog Vision :dog: : **A deep learning image classification project.** The goal of this project is to to use deep learning for multil-class image classification using TrensorFlow Hub.
 * Restaurant review :pizza: : **A NLP sematic analysis project.** The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
 
-🌱 I’m currently still learning **Machine learning, deep learning and NLP**
 
  📫 How to reach me **yasuei.cheng@gmail.com**
 
