@@ -1,8 +1,5 @@
-![YaSuei Cheng (1)](https://user-images.githubusercontent.com/70978272/136773808-3baf9da0-72d2-4246-9796-0dcb4d620a93.png)
 
-
-
-<h1 align="center">Hi 👋, my name is YaSuei and I am a data scientist. </h1>
+<h1 align="center">Hi 👋, my name is YaSuei. </h1>
 <h3 align="center"> Welcome to my Gitub page! </h3>
 
 I love playing around with data to the find hidden patterns and information :secret: in it. Besides being a data scientist, I am also...
