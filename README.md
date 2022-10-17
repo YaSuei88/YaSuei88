@@ -2,21 +2,21 @@
 <h1 align="center">Hi 👋, my name is YaSuei. </h1>
 <h3 align="center"> Welcome to my Gitub page! </h3>
 
-I love playing around with data to the find hidden patterns and information :secret: in it. Besides being a data scientist, I am also...
+I love playing around with data to find hidden patterns and information :secret: in it. When I am not busy with tech community managing, I am also...
 **A computational linguist** who has experience in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in both verbal and written forms. **An awarded educator** who worked with individuals that were above 2 standard deviations of IQ tests. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
 
-🔦 The **five public repositories** show my projects from the Udemy Python and data science courses.
+🔦 The **five public repositories** show my projects.
 
 * Password checker :cop: : **A python project.** Using website: pwned's API to check if your passwords have been leaked.
-* Heart Disease Classification :heartpulse: : **A machine learning project.** The goal of this project is to predict weather or not someone has heart disease based on their medical attributes.
+* Heart Disease Classification :heartpulse: : **A machine learning project.** The goal of this project is to predict whether or not someone has heart disease based on their medical attributes.
 * Bulldozers Price :tractor: : **A time-series machine learning project.** The goal is to predict the sale price of bulldozers, and find out the important features for the price.
-* Dog Vision :dog: : **A deep learning image classification project.** The goal of this project is to use deep learning for multiple-class image classification using TrensorFlow Hub.
-* Restaurant review :pizza: : **A NLP sematic analysis project.** The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
+* Dog Vision :dog: : **A deep learning image classification project.** The goal of this project is to use deep learning for multiple-class image classification using TensorFlow Hub.
+* Restaurant review :pizza: : **A NLP semantic analysis project.** The goal is to do semantic analysis/ classification on the restaurant review texts via bag of words model. 
 
 
  📫 How to reach me **yasuei.cheng@gmail.com**
 
- ⚡ Fun fact **I am currently into Bollywood dance work out!** :dancer: Anyone who also loves Bollywood dance? :raising_hand:
+ ⚡ Fun fact **I am currently into Bollywood dance workout!** :dancer: Anyone who also loves Bollywood dance? :raising_hand:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
