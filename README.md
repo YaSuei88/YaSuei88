@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, my name is YaSuei. </h1>
 <h3 align="center"> Welcome to my Gitub page! </h3>
 
-I love playing around with data to find hidden patterns and information :secret: in it. When I am not busy with tech community managing, I am also...
-**A computational linguist** who has experience in industry NLP projects in linguistic data processing. **An effective communicator** with extensive practice in both verbal and written forms. **An awarded educator** who worked with individuals that were above 2 standard deviations of IQ tests. **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
+I love playing around with data to find hidden patterns and information :secret: in it. When I am not busy cuddling with my cat (=✪ᆽ✪=), I am also...
+**a data management lead** in the research environment, familiar with the concept of making research data FAIR, skilled in aligning research data management (RDM) practices and workflow with organizational policies and GDPR to enhance compliance and promote open access initiatives; **a technology enthusiast** who is familiar with data science, AI, and digital research methods in research settings; **a natural networker and team player** who can communicate effectively and connect researchers, support staff, and domain experts across research groups and departments to help solve the current research challenges that lie within RDM.  **A strategic thinker** who can independently solve compound problems with excellent judgment and discretion.
 
 🔦 The **five public repositories** show my projects.
 
